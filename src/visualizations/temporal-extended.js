@@ -582,8 +582,8 @@ export function createViolinPlots(container, processedData) {
             Array.isArray(d.concentrations) && 
             d.concentrations.length >= 5
         )
-        .sort((a, b) => a.year - b.year)
-        .slice(0, 30); // Top 30 anys per rendiment
+        .sort((a, b) => a.year - b.year);
+        // Mostrar tots els anys disponibles (no limitar per rendiment)
     
     if (validData.length === 0) {
         container.html('<div class="error">No hi ha suficients dades vàlides per mostrar violin plots.</div>');
@@ -784,8 +784,8 @@ export function createRidgelinePlots(container, processedData) {
             Array.isArray(d.concentrations) && 
             d.concentrations.length >= 5
         )
-        .sort((a, b) => a.year - b.year)
-        .slice(0, 25); // Top 25 anys per rendiment
+        .sort((a, b) => a.year - b.year);
+        // Mostrar tots els anys disponibles (no limitar per rendiment)
     
     if (validData.length === 0) {
         container.html('<div class="error">No hi ha suficients dades vàlides per mostrar ridgeline plots.</div>');
