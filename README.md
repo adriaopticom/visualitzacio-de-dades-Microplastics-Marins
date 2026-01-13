@@ -45,8 +45,6 @@ part-2/
 ├── main.js                             # Aplicació principal
 ├── styles.css                          # Estils CSS
 ├── .nojekyll                           # Fitxer per GitHub Pages
-├── DEPLOY.md                           # Instruccions de desplegament
-├── GUIO_VIDEO.md                       # Guió del vídeo explicatiu
 └── README.md                           # Aquest fitxer
 ```
 
