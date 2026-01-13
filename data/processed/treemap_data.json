@@ -1,0 +1,236 @@
+[
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean water",
+    "nSamples": 6142,
+    "meanConcentration": 0.19977282985998046
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean water",
+    "nSamples": 2660,
+    "meanConcentration": 1.9588183180451129
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean water",
+    "nSamples": 1148,
+    "meanConcentration": 0.015459930313588851
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Beach",
+    "nSamples": 292,
+    "meanConcentration": 2282.523835082192
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean water",
+    "nSamples": 241,
+    "meanConcentration": 16.47010041078838
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean water",
+    "nSamples": 106,
+    "meanConcentration": 2.4966473584905664
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Beach",
+    "nSamples": 84,
+    "meanConcentration": 10319.880952380952
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean water",
+    "nSamples": 84,
+    "meanConcentration": 1996.0714285714287
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 79,
+    "meanConcentration": 1250.3874683544304
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean water",
+    "nSamples": 73,
+    "meanConcentration": 0.2596246575342466
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 72,
+    "meanConcentration": 79.75694444444444
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "nSamples": 69,
+    "meanConcentration": 998.0144927536232
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean water",
+    "nSamples": 63,
+    "meanConcentration": 0.002266666666666667
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 63,
+    "meanConcentration": 76.05479917460318
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Beach",
+    "nSamples": 60,
+    "meanConcentration": 1673.3333333333333
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Beach",
+    "nSamples": 59,
+    "meanConcentration": 48839.59322033898
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean water",
+    "nSamples": 57,
+    "meanConcentration": 2089.859649140351
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 54,
+    "meanConcentration": 376.4524074074074
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Beach",
+    "nSamples": 50,
+    "meanConcentration": 25532.8
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 45,
+    "meanConcentration": 115.0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean water",
+    "nSamples": 38,
+    "meanConcentration": 58.73684210526316
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean water",
+    "nSamples": 36,
+    "meanConcentration": 0.11703844444444443
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 36,
+    "meanConcentration": 217.8703703888889
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 30,
+    "meanConcentration": 12.766666666666667
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 26,
+    "meanConcentration": 107.19327038461537
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Beach",
+    "nSamples": 25,
+    "meanConcentration": 44352.0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean water",
+    "nSamples": 23,
+    "meanConcentration": 3521.7391304347825
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean water",
+    "nSamples": 17,
+    "meanConcentration": 1.1199999999999999
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 17,
+    "meanConcentration": 30.658823529411762
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Beach",
+    "nSamples": 12,
+    "meanConcentration": 0.8703704166666667
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "nSamples": 11,
+    "meanConcentration": 109.72727272727273
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 10,
+    "meanConcentration": 127.01500000000001
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 9,
+    "meanConcentration": 278.8888888888889
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 7,
+    "meanConcentration": 8.471428571428572
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 7,
+    "meanConcentration": 5.615714285714286
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 7,
+    "meanConcentration": 16.02
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean water",
+    "nSamples": 5,
+    "meanConcentration": 15828.0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean sediment",
+    "nSamples": 4,
+    "meanConcentration": 17.25
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean water",
+    "nSamples": 1,
+    "meanConcentration": 0.018
+  }
+]

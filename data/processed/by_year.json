@@ -1,0 +1,353 @@
+[
+  {
+    "year": 1972,
+    "meanConcentration": 0.028277777777777777,
+    "medianConcentration": 0.018500000000000003,
+    "sdConcentration": 0.03168002814087349,
+    "nSamples": 18,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1973,
+    "meanConcentration": 0.028363636363636365,
+    "medianConcentration": 0.004,
+    "sdConcentration": 0.06615931185747434,
+    "nSamples": 11,
+    "prev_year_conc": 0.028277777777777777,
+    "TCT": 0.3
+  },
+  {
+    "year": 1986,
+    "meanConcentration": 0.0682285,
+    "medianConcentration": 0.062962,
+    "sdConcentration": 0.05426422120118769,
+    "nSamples": 8,
+    "prev_year_conc": 0.028363636363636365,
+    "TCT": 140.55
+  },
+  {
+    "year": 1987,
+    "meanConcentration": 0.03456187155963303,
+    "medianConcentration": 0.011,
+    "sdConcentration": 0.08601561145912444,
+    "nSamples": 109,
+    "prev_year_conc": 0.0682285,
+    "TCT": -49.34
+  },
+  {
+    "year": 1989,
+    "meanConcentration": 0.038045525423728806,
+    "medianConcentration": 0.00864,
+    "sdConcentration": 0.07573005932056258,
+    "nSamples": 118,
+    "prev_year_conc": 0.03456187155963303,
+    "TCT": 10.08
+  },
+  {
+    "year": 1990,
+    "meanConcentration": 0.035860506329113924,
+    "medianConcentration": 0.01296,
+    "sdConcentration": 0.09275204163374264,
+    "nSamples": 79,
+    "prev_year_conc": 0.038045525423728806,
+    "TCT": -5.74
+  },
+  {
+    "year": 1991,
+    "meanConcentration": 0.029971080213903746,
+    "medianConcentration": 0.0108,
+    "sdConcentration": 0.04765001808943665,
+    "nSamples": 187,
+    "prev_year_conc": 0.035860506329113924,
+    "TCT": -16.42
+  },
+  {
+    "year": 1992,
+    "meanConcentration": 0.02711525970149254,
+    "medianConcentration": 0.0108,
+    "sdConcentration": 0.04013524965821147,
+    "nSamples": 335,
+    "prev_year_conc": 0.029971080213903746,
+    "TCT": -9.53
+  },
+  {
+    "year": 1993,
+    "meanConcentration": 0.03993847311827957,
+    "medianConcentration": 0.0108,
+    "sdConcentration": 0.0694443805281011,
+    "nSamples": 186,
+    "prev_year_conc": 0.02711525970149254,
+    "TCT": 47.29
+  },
+  {
+    "year": 1994,
+    "meanConcentration": 0.021446130177514792,
+    "medianConcentration": 0.008096,
+    "sdConcentration": 0.03206635223596611,
+    "nSamples": 169,
+    "prev_year_conc": 0.03993847311827957,
+    "TCT": -46.3
+  },
+  {
+    "year": 1995,
+    "meanConcentration": 0.04081393333333334,
+    "medianConcentration": 0.01512,
+    "sdConcentration": 0.09049163637367541,
+    "nSamples": 240,
+    "prev_year_conc": 0.021446130177514792,
+    "TCT": 90.31
+  },
+  {
+    "year": 1996,
+    "meanConcentration": 0.0600927709090909,
+    "medianConcentration": 0.01944,
+    "sdConcentration": 0.1129126689612741,
+    "nSamples": 275,
+    "prev_year_conc": 0.04081393333333334,
+    "TCT": 47.24
+  },
+  {
+    "year": 1997,
+    "meanConcentration": 0.05542919008264463,
+    "medianConcentration": 0.016738,
+    "sdConcentration": 0.16775762606206707,
+    "nSamples": 242,
+    "prev_year_conc": 0.0600927709090909,
+    "TCT": -7.76
+  },
+  {
+    "year": 1998,
+    "meanConcentration": 0.02797660714285714,
+    "medianConcentration": 0.00864,
+    "sdConcentration": 0.051252608055850066,
+    "nSamples": 224,
+    "prev_year_conc": 0.05542919008264463,
+    "TCT": -49.53
+  },
+  {
+    "year": 1999,
+    "meanConcentration": 0.04450276923076923,
+    "medianConcentration": 0.0162,
+    "sdConcentration": 0.07495897475789991,
+    "nSamples": 247,
+    "prev_year_conc": 0.02797660714285714,
+    "TCT": 59.07
+  },
+  {
+    "year": 2000,
+    "meanConcentration": 0.06097519453924915,
+    "medianConcentration": 0.01296,
+    "sdConcentration": 0.21135470343336052,
+    "nSamples": 293,
+    "prev_year_conc": 0.04450276923076923,
+    "TCT": 37.01
+  },
+  {
+    "year": 2001,
+    "meanConcentration": 0.04588720848056537,
+    "medianConcentration": 0.0144,
+    "sdConcentration": 0.09182938076561777,
+    "nSamples": 283,
+    "prev_year_conc": 0.06097519453924915,
+    "TCT": -24.74
+  },
+  {
+    "year": 2002,
+    "meanConcentration": 0.050875058823529405,
+    "medianConcentration": 0.00864,
+    "sdConcentration": 0.19612947794483312,
+    "nSamples": 204,
+    "prev_year_conc": 0.04588720848056537,
+    "TCT": 10.87
+  },
+  {
+    "year": 2003,
+    "meanConcentration": 0.041708929729729734,
+    "medianConcentration": 0.0096,
+    "sdConcentration": 0.11594643140729873,
+    "nSamples": 185,
+    "prev_year_conc": 0.050875058823529405,
+    "TCT": -18.02
+  },
+  {
+    "year": 2004,
+    "meanConcentration": 0.08238942857142857,
+    "medianConcentration": 0.009256,
+    "sdConcentration": 0.3597289141823787,
+    "nSamples": 168,
+    "prev_year_conc": 0.041708929729729734,
+    "TCT": 97.53
+  },
+  {
+    "year": 2005,
+    "meanConcentration": 0.10994131800766282,
+    "medianConcentration": 0.011996,
+    "sdConcentration": 0.38930070425794644,
+    "nSamples": 261,
+    "prev_year_conc": 0.08238942857142857,
+    "TCT": 33.44
+  },
+  {
+    "year": 2006,
+    "meanConcentration": 0.07413402325581395,
+    "medianConcentration": 0.00864,
+    "sdConcentration": 0.35479826225580946,
+    "nSamples": 172,
+    "prev_year_conc": 0.10994131800766282,
+    "TCT": -32.57
+  },
+  {
+    "year": 2007,
+    "meanConcentration": 0.1586174612244898,
+    "medianConcentration": 0.0108,
+    "sdConcentration": 0.5780754263082408,
+    "nSamples": 245,
+    "prev_year_conc": 0.07413402325581395,
+    "TCT": 113.96
+  },
+  {
+    "year": 2008,
+    "meanConcentration": 0.42677540487804877,
+    "medianConcentration": 0.008528,
+    "sdConcentration": 1.2704519215077648,
+    "nSamples": 205,
+    "prev_year_conc": 0.1586174612244898,
+    "TCT": 169.06
+  },
+  {
+    "year": 2009,
+    "meanConcentration": 2.3207721231343283,
+    "medianConcentration": 0.7825,
+    "sdConcentration": 4.271578975775022,
+    "nSamples": 268,
+    "prev_year_conc": 0.42677540487804877,
+    "TCT": 443.79
+  },
+  {
+    "year": 2010,
+    "meanConcentration": 0.6169136577777778,
+    "medianConcentration": 0.142413,
+    "sdConcentration": 1.2202190928540524,
+    "nSamples": 225,
+    "prev_year_conc": 2.3207721231343283,
+    "TCT": -73.42
+  },
+  {
+    "year": 2011,
+    "meanConcentration": 0.41873224629080114,
+    "medianConcentration": 0.051101,
+    "sdConcentration": 0.8612261436320133,
+    "nSamples": 337,
+    "prev_year_conc": 0.6169136577777778,
+    "TCT": -32.12
+  },
+  {
+    "year": 2012,
+    "meanConcentration": 0.4865719402654867,
+    "medianConcentration": 0.049874,
+    "sdConcentration": 2.5161355893829835,
+    "nSamples": 452,
+    "prev_year_conc": 0.41873224629080114,
+    "TCT": 16.2
+  },
+  {
+    "year": 2013,
+    "meanConcentration": 1.2557039719101124,
+    "medianConcentration": 0.5495705,
+    "sdConcentration": 2.367204614334631,
+    "nSamples": 356,
+    "prev_year_conc": 0.4865719402654867,
+    "TCT": 158.07
+  },
+  {
+    "year": 2014,
+    "meanConcentration": 0.8986764179372198,
+    "medianConcentration": 0.019,
+    "sdConcentration": 10.13175971252661,
+    "nSamples": 1115,
+    "prev_year_conc": 1.2557039719101124,
+    "TCT": -28.43
+  },
+  {
+    "year": 2015,
+    "meanConcentration": 87.29130016650437,
+    "medianConcentration": 0.585087,
+    "sdConcentration": 1796.4759702996873,
+    "nSamples": 1027,
+    "prev_year_conc": 0.8986764179372198,
+    "TCT": 9613.32
+  },
+  {
+    "year": 2016,
+    "meanConcentration": 239.7972648606357,
+    "medianConcentration": 0.066703,
+    "sdConcentration": 751.1699530512587,
+    "nSamples": 409,
+    "prev_year_conc": 87.29130016650437,
+    "TCT": 174.71
+  },
+  {
+    "year": 2017,
+    "meanConcentration": 1582.6117987251264,
+    "medianConcentration": 1.19,
+    "sdConcentration": 6561.569405283953,
+    "nSamples": 593,
+    "prev_year_conc": 239.7972648606357,
+    "TCT": 559.98
+  },
+  {
+    "year": 2018,
+    "meanConcentration": 919.8253615152151,
+    "medianConcentration": 41.0,
+    "sdConcentration": 1647.5551603741742,
+    "nSamples": 953,
+    "prev_year_conc": 1582.6117987251264,
+    "TCT": -41.88
+  },
+  {
+    "year": 2019,
+    "meanConcentration": 6096.073639306065,
+    "medianConcentration": 1.173333,
+    "sdConcentration": 38915.685284300314,
+    "nSamples": 709,
+    "prev_year_conc": 919.8253615152151,
+    "TCT": 562.74
+  },
+  {
+    "year": 2020,
+    "meanConcentration": 192.2732155116279,
+    "medianConcentration": 1.5889105,
+    "sdConcentration": 434.3059841994661,
+    "nSamples": 430,
+    "prev_year_conc": 6096.073639306065,
+    "TCT": -96.85
+  },
+  {
+    "year": 2021,
+    "meanConcentration": 148.63158978125,
+    "medianConcentration": 0.43645449999999997,
+    "sdConcentration": 2012.416296792536,
+    "nSamples": 416,
+    "prev_year_conc": 192.2732155116279,
+    "TCT": -22.7
+  },
+  {
+    "year": 2022,
+    "meanConcentration": 0.062262232558139535,
+    "medianConcentration": 0.042301,
+    "sdConcentration": 0.0657600300638028,
+    "nSamples": 43,
+    "prev_year_conc": 148.63158978125,
+    "TCT": -99.96
+  },
+  {
+    "year": 2023,
+    "meanConcentration": 44352.0,
+    "medianConcentration": 30800.0,
+    "sdConcentration": 40136.15493957204,
+    "nSamples": 25,
+    "prev_year_conc": 0.062262232558139535,
+    "TCT": 71234094.76
+  }
+]

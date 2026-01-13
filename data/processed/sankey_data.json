@@ -1,0 +1,3332 @@
+[
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 4986
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 1117
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 729
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 701
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 678
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 649
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 390
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 292
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 242
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 231
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 159
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 85
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 84
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 84
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 79
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 69
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 69
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 63
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 63
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 60
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 59
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 57
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 53
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 52
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 51
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 50
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 45
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 44
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 41
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 38
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 37
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 36
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 31
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 27
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 26
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 26
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 25
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 25
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 25
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 23
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 23
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 21
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 19
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 16
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 16
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 11
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 10
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 10
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 10
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 9
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 6
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 6
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 6
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 5
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 5
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 5
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 5
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 4
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 4
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 4
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 3
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 3
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 3
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 3
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 3
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 2
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 2
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 2
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 1
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 1
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 1
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 1
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 1
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Remotely operated vehicle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Surface water intake",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Shipek grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Sediment grab sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless steel bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "shovel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Van Dorn sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Trowel",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "glass jar",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "box corer",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Van Veen grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Ekman dredge",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Hand picking",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Grab sample",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "AVANI net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Day grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "CTD rosette sampler",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Aluminum bucket",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Niskin bottle",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Plankton net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": " stainless steel spatula",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Petite Ponar benthic grab",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "PVC cylinder",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Neuston net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Intake seawater pump",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Manta net",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Kubiena box",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Metal spoon",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Ocean sediment",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Beach",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Beach",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Beach",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "Metal scoop",
+    "marineSetting": "Beach",
+    "concentration_range": "Molt Baixa (0-0.1)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Alta (1.0-5.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Mitjana (0.5-1.0)",
+    "count": 0
+  },
+  {
+    "method": "Megacorer",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Baixa (0.1-0.5)",
+    "count": 0
+  },
+  {
+    "method": "stainless-steel spatula",
+    "marineSetting": "Ocean water",
+    "concentration_range": "Molt Alta (>5.0)",
+    "count": 0
+  }
+]

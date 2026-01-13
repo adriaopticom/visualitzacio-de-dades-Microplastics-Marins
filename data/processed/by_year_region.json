@@ -1,0 +1,2207 @@
+[
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Baffin Bay",
+    "meanConcentration": 0.00401,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2021,
+    "ocean": "Arctic Ocean",
+    "region": "Baffin Bay",
+    "meanConcentration": 0.033382800000000004,
+    "nSamples": 5,
+    "prev_year_conc": 0.00401,
+    "TCT": 732.49
+  },
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Barents Sea",
+    "meanConcentration": 0.006,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "Barents Sea",
+    "meanConcentration": 0.0112495,
+    "nSamples": 2,
+    "prev_year_conc": 0.006,
+    "TCT": 87.49
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "Barentsz Sea",
+    "meanConcentration": 0.4125466666666667,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Beaufort Sea",
+    "meanConcentration": 0.228,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Arctic Ocean",
+    "region": "Chukchi Sea",
+    "meanConcentration": 0.008,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Arctic Ocean",
+    "region": "Chukchi Sea",
+    "meanConcentration": 0.1,
+    "nSamples": 1,
+    "prev_year_conc": 0.008,
+    "TCT": 1150.0
+  },
+  {
+    "year": 2014,
+    "ocean": "Arctic Ocean",
+    "region": "Davis Strait",
+    "meanConcentration": 0.014,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Arctic Ocean",
+    "region": "Davis Strait",
+    "meanConcentration": 0.021,
+    "nSamples": 1,
+    "prev_year_conc": 0.014,
+    "TCT": 50.0
+  },
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Davis Strait",
+    "meanConcentration": 0.058828,
+    "nSamples": 3,
+    "prev_year_conc": 0.021,
+    "TCT": 180.13
+  },
+  {
+    "year": 2021,
+    "ocean": "Arctic Ocean",
+    "region": "Davis Strait",
+    "meanConcentration": 0.05518833333333334,
+    "nSamples": 6,
+    "prev_year_conc": 0.058828,
+    "TCT": -6.19
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "East Siberian Sea",
+    "meanConcentration": 0.6266908666666667,
+    "nSamples": 15,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Arctic Ocean",
+    "region": "Greenland Sea",
+    "meanConcentration": 0.0056,
+    "nSamples": 5,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Greenland Sea",
+    "meanConcentration": 74.83353333333334,
+    "nSamples": 15,
+    "prev_year_conc": 0.0056,
+    "TCT": 1336213.1
+  },
+  {
+    "year": 2017,
+    "ocean": "Arctic Ocean",
+    "region": "Greenland Sea",
+    "meanConcentration": 0.04367875,
+    "nSamples": 4,
+    "prev_year_conc": 74.83353333333334,
+    "TCT": -99.94
+  },
+  {
+    "year": 2018,
+    "ocean": "Arctic Ocean",
+    "region": "Greenland Sea",
+    "meanConcentration": 0.024354,
+    "nSamples": 3,
+    "prev_year_conc": 0.04367875,
+    "TCT": -44.24
+  },
+  {
+    "year": 2020,
+    "ocean": "Arctic Ocean",
+    "region": "Greenland Sea",
+    "meanConcentration": 0.013863666666666668,
+    "nSamples": 3,
+    "prev_year_conc": 0.024354,
+    "TCT": -43.07
+  },
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Hudson Strait",
+    "meanConcentration": 0.007,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "Kara Sea",
+    "meanConcentration": 0.9392252941176471,
+    "nSamples": 17,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "Laptev Sea",
+    "meanConcentration": 0.8218385882352941,
+    "nSamples": 17,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Arctic Ocean",
+    "region": "Northwestern Passages",
+    "meanConcentration": 0.056285714285714286,
+    "nSamples": 7,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Arctic Ocean",
+    "region": "Northwestern Passages",
+    "meanConcentration": 0.0912381111111111,
+    "nSamples": 9,
+    "prev_year_conc": 0.056285714285714286,
+    "TCT": 62.1
+  },
+  {
+    "year": 2017,
+    "ocean": "Arctic Ocean",
+    "region": "Norwegian Sea",
+    "meanConcentration": 0.024320333333333333,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "Norwegian Sea",
+    "meanConcentration": 0.0644574,
+    "nSamples": 15,
+    "prev_year_conc": 0.024320333333333333,
+    "TCT": 165.04
+  },
+  {
+    "year": 2020,
+    "ocean": "Arctic Ocean",
+    "region": "Norwegian Sea",
+    "meanConcentration": 0.023275857142857143,
+    "nSamples": 7,
+    "prev_year_conc": 0.0644574,
+    "TCT": -63.89
+  },
+  {
+    "year": 2019,
+    "ocean": "Arctic Ocean",
+    "region": "White Sea",
+    "meanConcentration": 1.2463933333333335,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Baltic Sea",
+    "meanConcentration": 0.024754333333333333,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Baltic Sea",
+    "meanConcentration": 0.1389282,
+    "nSamples": 5,
+    "prev_year_conc": 0.024754333333333333,
+    "TCT": 461.23
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "Baltic Sea",
+    "meanConcentration": 0.012410333333333334,
+    "nSamples": 3,
+    "prev_year_conc": 0.1389282,
+    "TCT": -91.07
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Bay of Biscay",
+    "meanConcentration": 0.002,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Bay of Biscay",
+    "meanConcentration": 1.8023895,
+    "nSamples": 2,
+    "prev_year_conc": 0.002,
+    "TCT": 90019.48
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Bay of Biscay",
+    "meanConcentration": 0.0599205,
+    "nSamples": 2,
+    "prev_year_conc": 1.8023895,
+    "TCT": -96.68
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Bay of Biscay",
+    "meanConcentration": 0.035156,
+    "nSamples": 1,
+    "prev_year_conc": 0.0599205,
+    "TCT": -41.33
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "Bay of Biscay",
+    "meanConcentration": 0.240982,
+    "nSamples": 4,
+    "prev_year_conc": 0.035156,
+    "TCT": 585.46
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Black Sea",
+    "meanConcentration": 0.6153382000000001,
+    "nSamples": 10,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1987,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.013479111111111112,
+    "nSamples": 36,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1989,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.005377037037037037,
+    "nSamples": 27,
+    "prev_year_conc": 0.013479111111111112,
+    "TCT": -60.11
+  },
+  {
+    "year": 1990,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.00432,
+    "nSamples": 1,
+    "prev_year_conc": 0.005377037037037037,
+    "TCT": -19.66
+  },
+  {
+    "year": 1991,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.005524350877192982,
+    "nSamples": 57,
+    "prev_year_conc": 0.00432,
+    "TCT": 27.88
+  },
+  {
+    "year": 1992,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.0116124,
+    "nSamples": 50,
+    "prev_year_conc": 0.005524350877192982,
+    "TCT": 110.2
+  },
+  {
+    "year": 1993,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.008116216216216216,
+    "nSamples": 37,
+    "prev_year_conc": 0.0116124,
+    "TCT": -30.11
+  },
+  {
+    "year": 1994,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.009163166666666667,
+    "nSamples": 48,
+    "prev_year_conc": 0.008116216216216216,
+    "TCT": 12.9
+  },
+  {
+    "year": 1995,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.012467510204081633,
+    "nSamples": 49,
+    "prev_year_conc": 0.009163166666666667,
+    "TCT": 36.06
+  },
+  {
+    "year": 1996,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.0159568125,
+    "nSamples": 64,
+    "prev_year_conc": 0.012467510204081633,
+    "TCT": 27.99
+  },
+  {
+    "year": 1997,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.007211703703703704,
+    "nSamples": 27,
+    "prev_year_conc": 0.0159568125,
+    "TCT": -54.8
+  },
+  {
+    "year": 1998,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.0080541,
+    "nSamples": 40,
+    "prev_year_conc": 0.007211703703703704,
+    "TCT": 11.68
+  },
+  {
+    "year": 1999,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.01590809756097561,
+    "nSamples": 41,
+    "prev_year_conc": 0.0080541,
+    "TCT": 97.52
+  },
+  {
+    "year": 2000,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.012301828571428572,
+    "nSamples": 70,
+    "prev_year_conc": 0.01590809756097561,
+    "TCT": -22.67
+  },
+  {
+    "year": 2001,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.01014552380952381,
+    "nSamples": 42,
+    "prev_year_conc": 0.012301828571428572,
+    "TCT": -17.53
+  },
+  {
+    "year": 2002,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.01122176,
+    "nSamples": 25,
+    "prev_year_conc": 0.01014552380952381,
+    "TCT": 10.61
+  },
+  {
+    "year": 2003,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.023352631578947368,
+    "nSamples": 38,
+    "prev_year_conc": 0.01122176,
+    "TCT": 108.1
+  },
+  {
+    "year": 2004,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.009744941176470588,
+    "nSamples": 17,
+    "prev_year_conc": 0.023352631578947368,
+    "TCT": -58.27
+  },
+  {
+    "year": 2005,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.009844363636363635,
+    "nSamples": 11,
+    "prev_year_conc": 0.009744941176470588,
+    "TCT": 1.02
+  },
+  {
+    "year": 2006,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.016404275862068964,
+    "nSamples": 29,
+    "prev_year_conc": 0.009844363636363635,
+    "TCT": 66.64
+  },
+  {
+    "year": 2007,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.028608761904761904,
+    "nSamples": 21,
+    "prev_year_conc": 0.016404275862068964,
+    "TCT": 74.4
+  },
+  {
+    "year": 2008,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.0066327999999999995,
+    "nSamples": 15,
+    "prev_year_conc": 0.028608761904761904,
+    "TCT": -76.82
+  },
+  {
+    "year": 2013,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.03209090909090909,
+    "nSamples": 11,
+    "prev_year_conc": 0.0066327999999999995,
+    "TCT": 383.82
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.008666666666666666,
+    "nSamples": 42,
+    "prev_year_conc": 0.03209090909090909,
+    "TCT": -72.99
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.2486913888888889,
+    "nSamples": 18,
+    "prev_year_conc": 0.008666666666666666,
+    "TCT": 2769.52
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.4059333333333333,
+    "nSamples": 15,
+    "prev_year_conc": 0.2486913888888889,
+    "TCT": 63.23
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.9322580645161291,
+    "nSamples": 31,
+    "prev_year_conc": 0.4059333333333333,
+    "TCT": 129.66
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 2256.7001164000003,
+    "nSamples": 10,
+    "prev_year_conc": 0.9322580645161291,
+    "TCT": 241968.18
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "Caribbean Sea",
+    "meanConcentration": 0.030493,
+    "nSamples": 1,
+    "prev_year_conc": 2256.7001164000003,
+    "TCT": -100.0
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Celtic Sea",
+    "meanConcentration": 0.5033273333333333,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Celtic Sea",
+    "meanConcentration": 0.0026000000000000003,
+    "nSamples": 5,
+    "prev_year_conc": 0.5033273333333333,
+    "TCT": -99.48
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Celtic Sea",
+    "meanConcentration": 0.018403,
+    "nSamples": 1,
+    "prev_year_conc": 0.0026000000000000003,
+    "TCT": 607.81
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Celtic Sea",
+    "meanConcentration": 26.204693400000004,
+    "nSamples": 5,
+    "prev_year_conc": 0.018403,
+    "TCT": 142293.6
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Celtic Sea",
+    "meanConcentration": 14.125,
+    "nSamples": 8,
+    "prev_year_conc": 26.204693400000004,
+    "TCT": -46.1
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "Celtic Sea",
+    "meanConcentration": 13.239355125,
+    "nSamples": 16,
+    "prev_year_conc": 14.125,
+    "TCT": -6.27
+  },
+  {
+    "year": 2000,
+    "ocean": "Atlantic Ocean",
+    "region": "Coastal Waters of Florida",
+    "meanConcentration": 0.043196,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2001,
+    "ocean": "Atlantic Ocean",
+    "region": "Coastal Waters of Florida",
+    "meanConcentration": 0.00864,
+    "nSamples": 1,
+    "prev_year_conc": 0.043196,
+    "TCT": -80.0
+  },
+  {
+    "year": 2008,
+    "ocean": "Atlantic Ocean",
+    "region": "Coastal Waters of Florida",
+    "meanConcentration": 0.005976,
+    "nSamples": 1,
+    "prev_year_conc": 0.00864,
+    "TCT": -30.83
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Coastal Waters of Florida",
+    "meanConcentration": 0.003,
+    "nSamples": 1,
+    "prev_year_conc": 0.005976,
+    "TCT": -49.8
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Coastal Waters of Florida",
+    "meanConcentration": 0.003857142857142857,
+    "nSamples": 7,
+    "prev_year_conc": 0.003,
+    "TCT": 28.57
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Coastal Waters of Florida",
+    "meanConcentration": 0.005,
+    "nSamples": 1,
+    "prev_year_conc": 0.003857142857142857,
+    "TCT": 29.63
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "English Channel",
+    "meanConcentration": 0.006,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "English Channel",
+    "meanConcentration": 24.506566,
+    "nSamples": 5,
+    "prev_year_conc": 0.006,
+    "TCT": 408342.77
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "English Channel",
+    "meanConcentration": 0.12530175,
+    "nSamples": 4,
+    "prev_year_conc": 24.506566,
+    "TCT": -99.49
+  },
+  {
+    "year": 1996,
+    "ocean": "Atlantic Ocean",
+    "region": "Florida Keys National Marine Sanctuary",
+    "meanConcentration": 0.013744,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1998,
+    "ocean": "Atlantic Ocean",
+    "region": "Florida Keys National Marine Sanctuary",
+    "meanConcentration": 0.00432,
+    "nSamples": 1,
+    "prev_year_conc": 0.013744,
+    "TCT": -68.57
+  },
+  {
+    "year": 2000,
+    "ocean": "Atlantic Ocean",
+    "region": "Florida Keys National Marine Sanctuary",
+    "meanConcentration": 0.00432,
+    "nSamples": 1,
+    "prev_year_conc": 0.00432,
+    "TCT": 0.0
+  },
+  {
+    "year": 2001,
+    "ocean": "Atlantic Ocean",
+    "region": "Florida Keys National Marine Sanctuary",
+    "meanConcentration": 0.013744,
+    "nSamples": 1,
+    "prev_year_conc": 0.00432,
+    "TCT": 218.15
+  },
+  {
+    "year": 1992,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.0054,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1993,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.00576,
+    "nSamples": 3,
+    "prev_year_conc": 0.0054,
+    "TCT": 6.67
+  },
+  {
+    "year": 1996,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.016592,
+    "nSamples": 4,
+    "prev_year_conc": 0.00576,
+    "TCT": 188.06
+  },
+  {
+    "year": 1997,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.009428,
+    "nSamples": 3,
+    "prev_year_conc": 0.016592,
+    "TCT": -43.18
+  },
+  {
+    "year": 2000,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.013438666666666668,
+    "nSamples": 3,
+    "prev_year_conc": 0.009428,
+    "TCT": 42.54
+  },
+  {
+    "year": 2001,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.059112,
+    "nSamples": 7,
+    "prev_year_conc": 0.013438666666666668,
+    "TCT": 339.87
+  },
+  {
+    "year": 2002,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.045616,
+    "nSamples": 4,
+    "prev_year_conc": 0.059112,
+    "TCT": -22.83
+  },
+  {
+    "year": 2003,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.011574000000000001,
+    "nSamples": 4,
+    "prev_year_conc": 0.045616,
+    "TCT": -74.63
+  },
+  {
+    "year": 2004,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.001348,
+    "nSamples": 1,
+    "prev_year_conc": 0.011574000000000001,
+    "TCT": -88.35
+  },
+  {
+    "year": 2006,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.047092,
+    "nSamples": 2,
+    "prev_year_conc": 0.001348,
+    "TCT": 3393.47
+  },
+  {
+    "year": 2007,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.0111664,
+    "nSamples": 5,
+    "prev_year_conc": 0.047092,
+    "TCT": -76.29
+  },
+  {
+    "year": 2008,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.009326,
+    "nSamples": 4,
+    "prev_year_conc": 0.0111664,
+    "TCT": -16.48
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.009333333333333334,
+    "nSamples": 3,
+    "prev_year_conc": 0.009326,
+    "TCT": 0.08
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 0.0015,
+    "nSamples": 2,
+    "prev_year_conc": 0.009333333333333334,
+    "TCT": -83.93
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 1519.4255555555555,
+    "nSamples": 63,
+    "prev_year_conc": 0.0015,
+    "TCT": 101294937.04
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 1097.2117647058822,
+    "nSamples": 68,
+    "prev_year_conc": 1519.4255555555555,
+    "TCT": -27.79
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of America (formerly Gulf of Mexico)",
+    "meanConcentration": 1774.869638631579,
+    "nSamples": 95,
+    "prev_year_conc": 1097.2117647058822,
+    "TCT": 61.76
+  },
+  {
+    "year": 1989,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.004516,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1996,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.012624000000000002,
+    "nSamples": 3,
+    "prev_year_conc": 0.004516,
+    "TCT": 179.54
+  },
+  {
+    "year": 1998,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.00216,
+    "nSamples": 1,
+    "prev_year_conc": 0.012624000000000002,
+    "TCT": -82.89
+  },
+  {
+    "year": 2001,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.005862,
+    "nSamples": 2,
+    "prev_year_conc": 0.00216,
+    "TCT": 171.39
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.0015000000000000002,
+    "nSamples": 6,
+    "prev_year_conc": 0.005862,
+    "TCT": -74.41
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.02839,
+    "nSamples": 1,
+    "prev_year_conc": 0.0015000000000000002,
+    "TCT": 1792.67
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "Gulf of St. Lawrence",
+    "meanConcentration": 0.19027525,
+    "nSamples": 4,
+    "prev_year_conc": 0.02839,
+    "TCT": 570.22
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.06412663157894737,
+    "nSamples": 19,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.020357,
+    "nSamples": 4,
+    "prev_year_conc": 0.06412663157894737,
+    "TCT": -68.25
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.1258577857142857,
+    "nSamples": 14,
+    "prev_year_conc": 0.020357,
+    "TCT": 518.25
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.065156,
+    "nSamples": 7,
+    "prev_year_conc": 0.1258577857142857,
+    "TCT": -48.23
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.14381977777777777,
+    "nSamples": 54,
+    "prev_year_conc": 0.065156,
+    "TCT": 120.73
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.03296944444444445,
+    "nSamples": 9,
+    "prev_year_conc": 0.14381977777777777,
+    "TCT": -77.08
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.03651118181818182,
+    "nSamples": 11,
+    "prev_year_conc": 0.03296944444444445,
+    "TCT": 10.74
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.09684186666666666,
+    "nSamples": 15,
+    "prev_year_conc": 0.03651118181818182,
+    "TCT": 165.24
+  },
+  {
+    "year": 2022,
+    "ocean": "Atlantic Ocean",
+    "region": "Inner Seas off the West Coast of Scotland",
+    "meanConcentration": 0.07174033333333334,
+    "nSamples": 21,
+    "prev_year_conc": 0.09684186666666666,
+    "TCT": -25.92
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Irish Sea and St. George's Channel",
+    "meanConcentration": 0.06956825,
+    "nSamples": 4,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Irish Sea and St. George's Channel",
+    "meanConcentration": 0.4037086,
+    "nSamples": 5,
+    "prev_year_conc": 0.06956825,
+    "TCT": 480.31
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Irish Sea and St. George's Channel",
+    "meanConcentration": 0.047351333333333336,
+    "nSamples": 6,
+    "prev_year_conc": 0.4037086,
+    "TCT": -88.27
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "Irish Sea and St. George's Channel",
+    "meanConcentration": 30.008331499999997,
+    "nSamples": 6,
+    "prev_year_conc": 0.047351333333333336,
+    "TCT": 63273.78
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "Irish Sea and St. George's Channel",
+    "meanConcentration": 0.032595,
+    "nSamples": 2,
+    "prev_year_conc": 30.008331499999997,
+    "TCT": -99.89
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Kattegat",
+    "meanConcentration": 63.0,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Kattegat",
+    "meanConcentration": 0.024366,
+    "nSamples": 1,
+    "prev_year_conc": 63.0,
+    "TCT": -99.96
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "Kattegat",
+    "meanConcentration": 0.003462,
+    "nSamples": 1,
+    "prev_year_conc": 0.024366,
+    "TCT": -85.79
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Labrador Sea",
+    "meanConcentration": 0.059011,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2010,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 1.3552487500000001,
+    "nSamples": 36,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2011,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 0.5765098666666667,
+    "nSamples": 15,
+    "prev_year_conc": 1.3552487500000001,
+    "TCT": -57.46
+  },
+  {
+    "year": 2012,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 1.052391956521739,
+    "nSamples": 23,
+    "prev_year_conc": 0.5765098666666667,
+    "TCT": 82.55
+  },
+  {
+    "year": 2013,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 2.33612571875,
+    "nSamples": 160,
+    "prev_year_conc": 1.052391956521739,
+    "TCT": 121.98
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 4.114546399122807,
+    "nSamples": 228,
+    "prev_year_conc": 2.33612571875,
+    "TCT": 76.13
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 1.6337407448979593,
+    "nSamples": 98,
+    "prev_year_conc": 4.114546399122807,
+    "TCT": -60.29
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 0.36886482352941175,
+    "nSamples": 17,
+    "prev_year_conc": 1.6337407448979593,
+    "TCT": -77.42
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 8.896150014705881,
+    "nSamples": 68,
+    "prev_year_conc": 0.36886482352941175,
+    "TCT": 2311.76
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 55.912652649635035,
+    "nSamples": 137,
+    "prev_year_conc": 8.896150014705881,
+    "TCT": 528.5
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 1.0417344625,
+    "nSamples": 80,
+    "prev_year_conc": 55.912652649635035,
+    "TCT": -98.14
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 2.8501607887323943,
+    "nSamples": 71,
+    "prev_year_conc": 1.0417344625,
+    "TCT": 173.6
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "Mediterranean Sea",
+    "meanConcentration": 1.4806605238095236,
+    "nSamples": 189,
+    "prev_year_conc": 2.8501607887323943,
+    "TCT": -48.05
+  },
+  {
+    "year": 1997,
+    "ocean": "Atlantic Ocean",
+    "region": "New York Bight",
+    "meanConcentration": 0.031404,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1998,
+    "ocean": "Atlantic Ocean",
+    "region": "New York Bight",
+    "meanConcentration": 0.0036000000000000003,
+    "nSamples": 3,
+    "prev_year_conc": 0.031404,
+    "TCT": -88.54
+  },
+  {
+    "year": 2006,
+    "ocean": "Atlantic Ocean",
+    "region": "New York Bight",
+    "meanConcentration": 0.00432,
+    "nSamples": 1,
+    "prev_year_conc": 0.0036000000000000003,
+    "TCT": 20.0
+  },
+  {
+    "year": 2008,
+    "ocean": "Atlantic Ocean",
+    "region": "New York Bight",
+    "meanConcentration": 0.0030600000000000002,
+    "nSamples": 2,
+    "prev_year_conc": 0.00432,
+    "TCT": -29.17
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "New York Bight",
+    "meanConcentration": 0.035333333333333335,
+    "nSamples": 3,
+    "prev_year_conc": 0.0030600000000000002,
+    "TCT": 1054.68
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "New York Bight",
+    "meanConcentration": 0.002,
+    "nSamples": 1,
+    "prev_year_conc": 0.035333333333333335,
+    "TCT": -94.34
+  },
+  {
+    "year": 2014,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.0429564,
+    "nSamples": 40,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.007689499999999999,
+    "nSamples": 6,
+    "prev_year_conc": 0.0429564,
+    "TCT": -82.1
+  },
+  {
+    "year": 2016,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.039959499999999995,
+    "nSamples": 2,
+    "prev_year_conc": 0.007689499999999999,
+    "TCT": 419.66
+  },
+  {
+    "year": 2017,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.010164,
+    "nSamples": 8,
+    "prev_year_conc": 0.039959499999999995,
+    "TCT": -74.56
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 1.8234905454545454,
+    "nSamples": 22,
+    "prev_year_conc": 0.010164,
+    "TCT": 17840.68
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.06447944,
+    "nSamples": 25,
+    "prev_year_conc": 1.8234905454545454,
+    "TCT": -96.46
+  },
+  {
+    "year": 2020,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.18679004999999999,
+    "nSamples": 20,
+    "prev_year_conc": 0.06447944,
+    "TCT": 189.69
+  },
+  {
+    "year": 2021,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.04239785714285715,
+    "nSamples": 14,
+    "prev_year_conc": 0.18679004999999999,
+    "TCT": -77.3
+  },
+  {
+    "year": 2022,
+    "ocean": "Atlantic Ocean",
+    "region": "North Sea",
+    "meanConcentration": 0.053214954545454544,
+    "nSamples": 22,
+    "prev_year_conc": 0.04239785714285715,
+    "TCT": 25.51
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Rio de La Plata",
+    "meanConcentration": 0.1310055,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Rio de la Plata",
+    "meanConcentration": 0.01,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Atlantic Ocean",
+    "region": "Skagerrak Strait",
+    "meanConcentration": 0.001,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2018,
+    "ocean": "Atlantic Ocean",
+    "region": "Skagerrak Strait",
+    "meanConcentration": 72.0,
+    "nSamples": 2,
+    "prev_year_conc": 0.001,
+    "TCT": 7199900.0
+  },
+  {
+    "year": 2019,
+    "ocean": "Atlantic Ocean",
+    "region": "Skagerrak Strait",
+    "meanConcentration": 0.006756,
+    "nSamples": 1,
+    "prev_year_conc": 72.0,
+    "TCT": -99.99
+  },
+  {
+    "year": 1995,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.131748,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 1997,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.00458,
+    "nSamples": 2,
+    "prev_year_conc": 0.131748,
+    "TCT": -96.52
+  },
+  {
+    "year": 1998,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.013151,
+    "nSamples": 4,
+    "prev_year_conc": 0.00458,
+    "TCT": 187.14
+  },
+  {
+    "year": 2001,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.034556,
+    "nSamples": 1,
+    "prev_year_conc": 0.013151,
+    "TCT": 162.76
+  },
+  {
+    "year": 2002,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.00218,
+    "nSamples": 2,
+    "prev_year_conc": 0.034556,
+    "TCT": -93.69
+  },
+  {
+    "year": 2003,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.02129,
+    "nSamples": 2,
+    "prev_year_conc": 0.00218,
+    "TCT": 876.61
+  },
+  {
+    "year": 2004,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.027761333333333332,
+    "nSamples": 3,
+    "prev_year_conc": 0.02129,
+    "TCT": 30.4
+  },
+  {
+    "year": 2005,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.0054,
+    "nSamples": 1,
+    "prev_year_conc": 0.027761333333333332,
+    "TCT": -80.55
+  },
+  {
+    "year": 2006,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.005892,
+    "nSamples": 1,
+    "prev_year_conc": 0.0054,
+    "TCT": 9.11
+  },
+  {
+    "year": 2007,
+    "ocean": "Atlantic Ocean",
+    "region": "Stellwagen Bank National Marine Sanctuary",
+    "meanConcentration": 0.00216,
+    "nSamples": 1,
+    "prev_year_conc": 0.005892,
+    "TCT": -63.34
+  },
+  {
+    "year": 2013,
+    "ocean": "Indian Ocean",
+    "region": "Andaman Sea",
+    "meanConcentration": 0.095472,
+    "nSamples": 15,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2012,
+    "ocean": "Indian Ocean",
+    "region": "Arafura Sea",
+    "meanConcentration": 0.013574285714285714,
+    "nSamples": 7,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2013,
+    "ocean": "Indian Ocean",
+    "region": "Bay of Bengal",
+    "meanConcentration": 0.1984347878787879,
+    "nSamples": 33,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Indian Ocean",
+    "region": "Bay of Bengal",
+    "meanConcentration": 1083.3230485316456,
+    "nSamples": 79,
+    "prev_year_conc": 0.1984347878787879,
+    "TCT": 545834.04
+  },
+  {
+    "year": 2020,
+    "ocean": "Indian Ocean",
+    "region": "Bay of Bengal",
+    "meanConcentration": 225.60941011235954,
+    "nSamples": 89,
+    "prev_year_conc": 1083.3230485316456,
+    "TCT": -79.17
+  },
+  {
+    "year": 2011,
+    "ocean": "Indian Ocean",
+    "region": "Great Australian Bight",
+    "meanConcentration": 0.029309629629629633,
+    "nSamples": 27,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2021,
+    "ocean": "Indian Ocean",
+    "region": "Laccadive Sea",
+    "meanConcentration": 40.00993472222222,
+    "nSamples": 144,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Indian Ocean",
+    "region": "Mozambique Channel",
+    "meanConcentration": 0.003,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2018,
+    "ocean": "Indian Ocean",
+    "region": "Mozambique Channel",
+    "meanConcentration": 0.06131894444444445,
+    "nSamples": 18,
+    "prev_year_conc": 0.003,
+    "TCT": 1943.96
+  },
+  {
+    "year": 2015,
+    "ocean": "Indian Ocean",
+    "region": "Red Sea",
+    "meanConcentration": 0.005,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2013,
+    "ocean": "Indian Ocean",
+    "region": "Timor Sea",
+    "meanConcentration": 0.023272,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2018,
+    "ocean": "Indian Ocean",
+    "region": "Timor Sea",
+    "meanConcentration": 0.0183885,
+    "nSamples": 2,
+    "prev_year_conc": 0.023272,
+    "TCT": -20.98
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Bali Sea",
+    "meanConcentration": 0.001,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Bass Strait",
+    "meanConcentration": 0.002,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Bass Strait",
+    "meanConcentration": 92.0,
+    "nSamples": 1,
+    "prev_year_conc": 0.002,
+    "TCT": 4599900.0
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Bering Sea",
+    "meanConcentration": 0.003,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Bering Sea",
+    "meanConcentration": 0.11783333333333335,
+    "nSamples": 6,
+    "prev_year_conc": 0.003,
+    "TCT": 3827.78
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Bismarck Sea",
+    "meanConcentration": 0.208652,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Celebes Sea",
+    "meanConcentration": 0.264115,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Channel Islands National Marine Sanctuary",
+    "meanConcentration": 0.002,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Coastal Waters of Southeast Alaska and British Columbia",
+    "meanConcentration": 0.008,
+    "nSamples": 12,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Coastal Waters of Southeast Alaska and British Columbia",
+    "meanConcentration": 0.005833333333333333,
+    "nSamples": 18,
+    "prev_year_conc": 0.008,
+    "TCT": -27.08
+  },
+  {
+    "year": 2012,
+    "ocean": "Pacific Ocean",
+    "region": "Coral Sea",
+    "meanConcentration": 0.07555342307692307,
+    "nSamples": 52,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Coral Sea",
+    "meanConcentration": 0.006999999999999999,
+    "nSamples": 2,
+    "prev_year_conc": 0.07555342307692307,
+    "TCT": -90.74
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Coral Sea",
+    "meanConcentration": 0.02044925,
+    "nSamples": 4,
+    "prev_year_conc": 0.006999999999999999,
+    "TCT": 192.13
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Coral Sea",
+    "meanConcentration": 0.17455391666666667,
+    "nSamples": 12,
+    "prev_year_conc": 0.02044925,
+    "TCT": 753.6
+  },
+  {
+    "year": 2018,
+    "ocean": "Pacific Ocean",
+    "region": "Coral Sea",
+    "meanConcentration": 56.25,
+    "nSamples": 4,
+    "prev_year_conc": 0.17455391666666667,
+    "TCT": 32125.0
+  },
+  {
+    "year": 2020,
+    "ocean": "Pacific Ocean",
+    "region": "Coral Sea",
+    "meanConcentration": 0.059697125,
+    "nSamples": 16,
+    "prev_year_conc": 56.25,
+    "TCT": -99.89
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "East China Sea",
+    "meanConcentration": 0.15603575,
+    "nSamples": 4,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "East China Sea",
+    "meanConcentration": 0.0032857142857142855,
+    "nSamples": 7,
+    "prev_year_conc": 0.15603575,
+    "TCT": -97.89
+  },
+  {
+    "year": 2020,
+    "ocean": "Pacific Ocean",
+    "region": "East China Sea",
+    "meanConcentration": 54.48845480769231,
+    "nSamples": 52,
+    "prev_year_conc": 0.0032857142857142855,
+    "TCT": 1658244.28
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Eastern China Sea",
+    "meanConcentration": 20720.0,
+    "nSamples": 4,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Eastern China Sea",
+    "meanConcentration": 10341.333333333334,
+    "nSamples": 75,
+    "prev_year_conc": 20720.0,
+    "TCT": -50.09
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Flores Sea",
+    "meanConcentration": 0.004,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Greater Farallones National Marine Sanctuary",
+    "meanConcentration": 0.001,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2013,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of Alaska",
+    "meanConcentration": 0.017666666666666667,
+    "nSamples": 6,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of Alaska",
+    "meanConcentration": 0.015000000000000001,
+    "nSamples": 8,
+    "prev_year_conc": 0.017666666666666667,
+    "TCT": -15.09
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of Alaska",
+    "meanConcentration": 0.00876,
+    "nSamples": 25,
+    "prev_year_conc": 0.015000000000000001,
+    "TCT": -41.6
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of Alaska",
+    "meanConcentration": 0.008166666666666668,
+    "nSamples": 6,
+    "prev_year_conc": 0.00876,
+    "TCT": -6.77
+  },
+  {
+    "year": 2001,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 0.00792,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2002,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 0.014321333333333333,
+    "nSamples": 3,
+    "prev_year_conc": 0.00792,
+    "TCT": 80.82
+  },
+  {
+    "year": 2013,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 0.012,
+    "nSamples": 2,
+    "prev_year_conc": 0.014321333333333333,
+    "TCT": -16.21
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 0.0025,
+    "nSamples": 2,
+    "prev_year_conc": 0.012,
+    "TCT": -79.17
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 0.0045000000000000005,
+    "nSamples": 4,
+    "prev_year_conc": 0.0025,
+    "TCT": 80.0
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 0.003,
+    "nSamples": 1,
+    "prev_year_conc": 0.0045000000000000005,
+    "TCT": -33.33
+  },
+  {
+    "year": 2018,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of California",
+    "meanConcentration": 1853.7175097714287,
+    "nSamples": 70,
+    "prev_year_conc": 0.003,
+    "TCT": 61790483.66
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of Thailand",
+    "meanConcentration": 0.004,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2019,
+    "ocean": "Pacific Ocean",
+    "region": "Gulf of Thailand",
+    "meanConcentration": 48839.59322033898,
+    "nSamples": 59,
+    "prev_year_conc": 0.004,
+    "TCT": 1220989730.51
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Halmahera Sea",
+    "meanConcentration": 0.004,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Halmahera Sea",
+    "meanConcentration": 0.10945666666666666,
+    "nSamples": 3,
+    "prev_year_conc": 0.004,
+    "TCT": 2636.42
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Hawaiian Islands Humpback Whale National Marine Sanctuary",
+    "meanConcentration": 0.006,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Inland Sea",
+    "meanConcentration": 0.01,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Java Sea",
+    "meanConcentration": 0.013000000000000001,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Malacca Strait",
+    "meanConcentration": 0.077,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Molucca Sea",
+    "meanConcentration": 0.20105766666666666,
+    "nSamples": 3,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Monterey Bay National Marine Sanctuary",
+    "meanConcentration": 0.002,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Monterey Bay National Marine Sanctuary",
+    "meanConcentration": 0.0014,
+    "nSamples": 5,
+    "prev_year_conc": 0.002,
+    "TCT": -30.0
+  },
+  {
+    "year": 2002,
+    "ocean": "Pacific Ocean",
+    "region": "Olympic Coast National Marine Sanctuary",
+    "meanConcentration": 0.002076,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2002,
+    "ocean": "Pacific Ocean",
+    "region": "Papahanaumokuakea Marine National Monument",
+    "meanConcentration": 0.0936128,
+    "nSamples": 5,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Philippine Sea",
+    "meanConcentration": 0.25896553174603176,
+    "nSamples": 126,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Philippine Sea",
+    "meanConcentration": 0.007,
+    "nSamples": 1,
+    "prev_year_conc": 0.25896553174603176,
+    "TCT": -97.3
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Philippine Sea",
+    "meanConcentration": 0.161273625,
+    "nSamples": 8,
+    "prev_year_conc": 0.007,
+    "TCT": 2203.91
+  },
+  {
+    "year": 2018,
+    "ocean": "Pacific Ocean",
+    "region": "Philippine Sea",
+    "meanConcentration": 41.68656128571428,
+    "nSamples": 7,
+    "prev_year_conc": 0.161273625,
+    "TCT": 25748.34
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Savu Sea",
+    "meanConcentration": 0.0035,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "Sea of Japan",
+    "meanConcentration": 0.003,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "Solomon Sea",
+    "meanConcentration": 0.0253812,
+    "nSamples": 5,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "South China Sea",
+    "meanConcentration": 1220.0,
+    "nSamples": 4,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2016,
+    "ocean": "Pacific Ocean",
+    "region": "South China Sea",
+    "meanConcentration": 0.009285714285714286,
+    "nSamples": 7,
+    "prev_year_conc": 1220.0,
+    "TCT": -100.0
+  },
+  {
+    "year": 2017,
+    "ocean": "Pacific Ocean",
+    "region": "South China Sea",
+    "meanConcentration": 3115.3910613076923,
+    "nSamples": 26,
+    "prev_year_conc": 0.009285714285714286,
+    "TCT": 33550265.28
+  },
+  {
+    "year": 2018,
+    "ocean": "Pacific Ocean",
+    "region": "South China Sea",
+    "meanConcentration": 916.9466099876544,
+    "nSamples": 81,
+    "prev_year_conc": 3115.3910613076923,
+    "TCT": -70.57
+  },
+  {
+    "year": 2019,
+    "ocean": "Pacific Ocean",
+    "region": "South China Sea",
+    "meanConcentration": 24718.333333333332,
+    "nSamples": 3,
+    "prev_year_conc": 916.9466099876544,
+    "TCT": 2595.72
+  },
+  {
+    "year": 2018,
+    "ocean": "Pacific Ocean",
+    "region": "Sulu Sea",
+    "meanConcentration": 0.098086,
+    "nSamples": 2,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2011,
+    "ocean": "Pacific Ocean",
+    "region": "Tasman Sea",
+    "meanConcentration": 0.010793166666666666,
+    "nSamples": 18,
+    "prev_year_conc": null,
+    "TCT": null
+  },
+  {
+    "year": 2012,
+    "ocean": "Pacific Ocean",
+    "region": "Tasman Sea",
+    "meanConcentration": 0.06958559259259259,
+    "nSamples": 54,
+    "prev_year_conc": 0.010793166666666666,
+    "TCT": 544.72
+  },
+  {
+    "year": 2014,
+    "ocean": "Pacific Ocean",
+    "region": "Tasman Sea",
+    "meanConcentration": 0.002428571428571429,
+    "nSamples": 7,
+    "prev_year_conc": 0.06958559259259259,
+    "TCT": -96.51
+  },
+  {
+    "year": 2015,
+    "ocean": "Pacific Ocean",
+    "region": "Tasman Sea",
+    "meanConcentration": 0.003,
+    "nSamples": 1,
+    "prev_year_conc": 0.002428571428571429,
+    "TCT": 23.53
+  },
+  {
+    "year": 2018,
+    "ocean": "Pacific Ocean",
+    "region": "Tasman Sea",
+    "meanConcentration": 70.5,
+    "nSamples": 2,
+    "prev_year_conc": 0.003,
+    "TCT": 2349900.0
+  },
+  {
+    "year": 2020,
+    "ocean": "Pacific Ocean",
+    "region": "Tokyo Bay",
+    "meanConcentration": 3510.0,
+    "nSamples": 1,
+    "prev_year_conc": null,
+    "TCT": null
+  }
+]
